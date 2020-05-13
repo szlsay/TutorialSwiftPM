@@ -11,3 +11,8 @@ Specification for Cocoapods、Carthage、Swift Package Manager
 
 
 
+## [Carthage](https://github.com/Carthage/Carthage)
+
+> touch Cartfile
+> open -a Xcode Cartfile
+> 

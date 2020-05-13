@@ -15,6 +15,8 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		67F6AD08246CB41000423FA7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 67F6AD06246CB41000423FA7 /* README.md */; };
+		67F6AD09246CB41000423FA7 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 67F6AD07246CB41000423FA7 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,7 +31,6 @@
 
 /* Begin PBXFileReference section */
 		050BE494911FA103ACC55812 /* Pods-STLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-STLib_Tests.release.xcconfig"; path = "Target Support Files/Pods-STLib_Tests/Pods-STLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		0DACB3C63E2ABF1306C5FF9C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		28D0CC10D2A43A143D018906 /* Pods-STLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-STLib_Example.debug.xcconfig"; path = "Target Support Files/Pods-STLib_Example/Pods-STLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		2C9A12805C5FA3942B960EBE /* Pods-STLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-STLib_Tests.debug.xcconfig"; path = "Target Support Files/Pods-STLib_Tests/Pods-STLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5F536834660E83C96E6EFD54 /* Pods_STLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_STLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,8 +45,9 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		676BE6E160AD8CF7CD3622AD /* STLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = STLib.podspec; path = ../STLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		67F6AD06246CB41000423FA7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		67F6AD07246CB41000423FA7 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		93348F15ED654C5A30C620C5 /* Pods_STLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_STLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A73542BAED4734122DF80EF6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C74DBF79B55A88E2E8B9B1D6 /* Pods-STLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-STLib_Example.release.xcconfig"; path = "Target Support Files/Pods-STLib_Example/Pods-STLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -133,8 +135,8 @@
 			isa = PBXGroup;
 			children = (
 				676BE6E160AD8CF7CD3622AD /* STLib.podspec */,
-				A73542BAED4734122DF80EF6 /* README.md */,
-				0DACB3C63E2ABF1306C5FF9C /* LICENSE */,
+				67F6AD07246CB41000423FA7 /* LICENSE */,
+				67F6AD06246CB41000423FA7 /* README.md */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -249,7 +251,9 @@
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
+				67F6AD08246CB41000423FA7 /* README.md in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
+				67F6AD09246CB41000423FA7 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
