@@ -1,2 +1,13 @@
 # TutorialSwiftPM
-Specification for Cocoapod、Carthage、Swift Package Manager
+Specification for Cocoapods、Carthage、Swift Package Manager
+
+
+
+## [Cocoapods](https://guides.cocoapods.org/making/index.html)
+
+### 1. create project
+
+>  pod lib create STLib 
+
+
+
