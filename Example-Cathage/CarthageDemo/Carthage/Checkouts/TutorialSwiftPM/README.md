@@ -116,25 +116,7 @@ pod 'TutorialSwiftPM', :path => '../'
 - Device 改为iPhone/iPad
 
 ### 2.3 use
-1. 创建Example-Cathage文件夹
-2. 进入Example-Cathage文件夹，创建Cartfile文件，或者touch Cartfile
-3. 编写Cartfile
 
-```
-git "https://github.com/STShenZhaoliang/TutorialSwiftPM"  "0.0.1"
-```
-
-4. 在终端执行命令
-```
-carthage update --platform iOS
-```
-
-5. 添加测试工程CarthageDemo
-6. 测试工程添加New Run Script Phase
-     脚本添加 `/usr/local/bin/Carthage copy-frameworks`
-     input files添加 `$(SRCROOT)/Carthage/Build/iOS/Static/TutorialSwiftPM.framework`
-7. 测试工程Link Binary With Libraries添加`TutorialSwiftPM.framework`
-8. 详细使用参照CarthageDemo工程
 
 
 ## 3. [SwiftPackageManager](https://github.com/apple/swift-package-manager)
