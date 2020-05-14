@@ -2,7 +2,7 @@
 
 import Quick
 import Nimble
-import STLib
+import TutorialSwiftPM
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {

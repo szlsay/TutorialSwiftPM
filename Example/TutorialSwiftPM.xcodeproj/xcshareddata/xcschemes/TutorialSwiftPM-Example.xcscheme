@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "STLib_Example.app"
-               BlueprintName = "STLib_Example"
-               ReferencedContainer = "container:STLib.xcodeproj">
+               BuildableName = "TutorialSwiftPM_Example.app"
+               BlueprintName = "TutorialSwiftPM_Example"
+               ReferencedContainer = "container:TutorialSwiftPM.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "STLib_Tests.xctest"
-               BlueprintName = "STLib_Tests"
-               ReferencedContainer = "container:STLib.xcodeproj">
+               BuildableName = "TutorialSwiftPM_Tests.xctest"
+               BlueprintName = "TutorialSwiftPM_Tests"
+               ReferencedContainer = "container:TutorialSwiftPM.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -48,9 +48,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "STLib_Tests.xctest"
-               BlueprintName = "STLib_Tests"
-               ReferencedContainer = "container:STLib.xcodeproj">
+               BuildableName = "TutorialSwiftPM_Tests.xctest"
+               BlueprintName = "TutorialSwiftPM_Tests"
+               ReferencedContainer = "container:TutorialSwiftPM.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "STLib_Example.app"
-            BlueprintName = "STLib_Example"
-            ReferencedContainer = "container:STLib.xcodeproj">
+            BuildableName = "TutorialSwiftPM_Example.app"
+            BlueprintName = "TutorialSwiftPM_Example"
+            ReferencedContainer = "container:TutorialSwiftPM.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -82,9 +82,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "STLib_Example.app"
-            BlueprintName = "STLib_Example"
-            ReferencedContainer = "container:STLib.xcodeproj">
+            BuildableName = "TutorialSwiftPM_Example.app"
+            BlueprintName = "TutorialSwiftPM_Example"
+            ReferencedContainer = "container:TutorialSwiftPM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -101,9 +101,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "STLib_Example.app"
-            BlueprintName = "STLib_Example"
-            ReferencedContainer = "container:STLib.xcodeproj">
+            BuildableName = "TutorialSwiftPM_Example.app"
+            BlueprintName = "TutorialSwiftPM_Example"
+            ReferencedContainer = "container:TutorialSwiftPM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

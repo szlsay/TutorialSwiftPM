@@ -1,9 +1,9 @@
 use_frameworks!
 
-target 'STLib_Example' do
-  pod 'STLib', :path => '../'
+target 'TutorialSwiftPM_Example' do
+  pod 'TutorialSwiftPM', :path => '../'
 
-  target 'STLib_Tests' do
+  target 'TutorialSwiftPM_Tests' do
     inherit! :search_paths
 
     pod 'Quick', '~> 1.2.0'

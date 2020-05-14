@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  STLib
+//  TutorialSwiftPM
 //
-//  Created by stszl on 05/13/2020.
+//  Created by stszl on 05/14/2020.
 //  Copyright (c) 2020 stszl. All rights reserved.
 //
 

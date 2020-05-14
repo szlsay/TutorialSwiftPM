@@ -11,14 +11,14 @@ PODS:
     - FBSnapshotTestCase (~> 2.0)
     - Nimble (~> 7.0)
   - Quick (1.2.0)
-  - STLib (0.1.0)
+  - TutorialSwiftPM (0.0.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
   - Nimble (~> 7.0)
   - Nimble-Snapshots (~> 6.3.0)
   - Quick (~> 1.2.0)
-  - STLib (from `../`)
+  - TutorialSwiftPM (from `../`)
 
 SPEC REPOS:
   trunk:
@@ -28,7 +28,7 @@ SPEC REPOS:
     - Quick
 
 EXTERNAL SOURCES:
-  STLib:
+  TutorialSwiftPM:
     :path: "../"
 
 SPEC CHECKSUMS:
@@ -36,8 +36,8 @@ SPEC CHECKSUMS:
   Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
   Nimble-Snapshots: f5459b5b091678dc942d03ec4741cacb58ba4a52
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
-  STLib: 9b787d4bbc253b8073dd68316adc40f50f1b969a
+  TutorialSwiftPM: 3d3aba9c63ea81715fa19bf820b560a4e444c77a
 
-PODFILE CHECKSUM: b2a51e6af5c5e6ff434fcaea2508fadae7f71c15
+PODFILE CHECKSUM: 975eeee3d2ff695995c104ca91ed62e6dc6f0eeb
 
 COCOAPODS: 1.9.1
