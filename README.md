@@ -98,6 +98,8 @@ end
 pod 'TutorialSwiftPM', :path => '../'
 ```
 
+详细内容可以查看Example中的工程
+
 
 
 
@@ -112,6 +114,9 @@ pod 'TutorialSwiftPM', :path => '../'
 - Mach-O Type改为Static Library
 - Target 改为iOS13.0
 - Device 改为iPhone/iPad
+
+### 2.3 use
+
 
 
 ## 3. [SwiftPackageManager](https://github.com/apple/swift-package-manager)
