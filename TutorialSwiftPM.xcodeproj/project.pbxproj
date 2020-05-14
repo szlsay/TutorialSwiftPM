@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		67F6AD94246CE84600423FA7 /* TutorialSwiftPM.h in Headers */ = {isa = PBXBuildFile; fileRef = 67F6AD92246CE84600423FA7 /* TutorialSwiftPM.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		67F6AD9D246CE8F700423FA7 /* TutorialSwiftPM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F6AD9C246CE8F700423FA7 /* TutorialSwiftPM.swift */; };
+		67F6AD9F246CF3D200423FA7 /* STView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F6AD9E246CF3D200423FA7 /* STView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +17,7 @@
 		67F6AD92246CE84600423FA7 /* TutorialSwiftPM.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TutorialSwiftPM.h; sourceTree = "<group>"; };
 		67F6AD93246CE84600423FA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		67F6AD9C246CE8F700423FA7 /* TutorialSwiftPM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialSwiftPM.swift; sourceTree = "<group>"; };
+		67F6AD9E246CF3D200423FA7 /* STView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				67F6AD9C246CE8F700423FA7 /* TutorialSwiftPM.swift */,
+				67F6AD9E246CF3D200423FA7 /* STView.swift */,
 			);
 			path = TutorialSwiftPM;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67F6AD9D246CE8F700423FA7 /* TutorialSwiftPM.swift in Sources */,
+				67F6AD9F246CF3D200423FA7 /* STView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

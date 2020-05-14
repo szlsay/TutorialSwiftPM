@@ -90,7 +90,19 @@ end
 ```
 
 
+
+### 1.3 use 
+在Example文件夹中，编写podfile，添加组件引用
+
+```
+pod 'TutorialSwiftPM', :path => '../'
+```
+
+
+
+
 ## 2. [Carthage](https://github.com/Carthage/Carthage)
+
 ### 2.1 create project
 - 创建一个framework工程，命名为`TutorialSwiftPM`并保存到桌面
 - 将TutorialSwiftPM文件夹中的文件移动到本仓库中
@@ -182,5 +194,27 @@ let package = Package(
 ## 4 工程优化
 ### 4.1 文件结构优化
 - 移除Cocoapods源代码文件夹，即删除案例中的TutorialSwiftPM文件夹
+
 - podspec中source_files使用SwiftPM源代码文件夹，修改为'Sources/TutorialSwiftPM/*.swift'
+
 - Example文件夹工程重新pod init --verbose
+
+### 4.2 添加测试文件
+编写内容见下
+
+```swift
+import UIKit
+
+open class STView: UIView{
+    public override init(frame: CGRect) {
+        super.init(frame: frame)
+        backgroundColor = .red
+    }
+    
+    public required  init?(coder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+}
+
+```
+
