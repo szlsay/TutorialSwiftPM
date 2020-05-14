@@ -213,6 +213,13 @@ let package = Package(
 )
 ```
 
+### 3.3 Use
+1. 创建SwiftPM工程
+2. 选择Swift Packages
+3. 添加链接地址`https://github.com/STShenZhaoliang/TutorialSwiftPM`, 点击next
+4. Rules中Version选择"0.0.1", 点击next
+5. 构建完成后，点击finish
+6. 详细使用参照SwiftPMDemo
 
 ## 4 工程优化
 ### 4.1 文件结构优化

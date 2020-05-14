@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TutorialSwiftPM",
+        "repositoryURL": "https://github.com/STShenZhaoliang/TutorialSwiftPM",
+        "state": {
+          "branch": null,
+          "revision": "8f1f791d4854dce3d557777c205d9514bd8dd5a7",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
